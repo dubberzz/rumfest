@@ -10,7 +10,7 @@ class Home extends Component {
   render () {
   return (
       <div>
-      <header>a</header>
+      <header></header>
       <Sidebar />
       <Inceput />
       <Harta />
